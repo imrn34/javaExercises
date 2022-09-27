@@ -1,9 +1,8 @@
-import java.nio.charset.Charset;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-public class Main {
+public class Exercise1 {
     public static void main(String[] args) {
         String hi = "Hello, My first number is: ";
         String yeap="Have a fun.";
