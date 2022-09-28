@@ -1,12 +1,12 @@
 public class Product {
 
-    public Product(int id, String name, int quantity, double price, String color){
+    public Product(int id, String name, int quantity, double price, String color) {
         System.out.println("Yapıcı blok çalıştı.");
-        this.id=id;
-        this.name=name;
-        this.quantity=quantity;
-        this.price=price;
-        this.color=color;
+        this.id = id;
+        this.name = name;
+        this.quantity = quantity;
+        this.price = price;
+        this.color = color;
 
     }
 

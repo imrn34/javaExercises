@@ -1,8 +1,9 @@
 public class PersonManager {
-    public void List(){
+    public void List() {
         System.out.println("Listed.");
     }
-    public void Add(){
+
+    public void Add() {
         System.out.println("Added.");
     }
 }

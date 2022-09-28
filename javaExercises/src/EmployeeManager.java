@@ -1,6 +1,6 @@
-public class EmployeeManager extends PersonManager{
+public class EmployeeManager extends PersonManager {
 
-    public void BestEmployee(){
+    public void BestEmployee() {
         System.out.println("Best.");
     }
 }
